@@ -15,7 +15,7 @@ All of the response documents have a `message` and `status` property to signal o
 The `status` is a numerical value that is `200` on success, and `message` is (usually) a string that is `success` for successful operations.
 For unsuccessful operations the error message is contained in the `ErrorMessage` field.
 
-The base URI for the API operations is `https://gdcportalgw.its-mo.com/gworchest_160803A/gdc/`.
+The base URI for the API operations is `https://gdcportalgw.its-mo.com/gworchest_160803EC/gdc/`.
 
 ## Long Polled Operations
 
